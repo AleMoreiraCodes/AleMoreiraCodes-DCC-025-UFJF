@@ -21,7 +21,6 @@ public class Exercico09 {
 			l = -l;
 		if(m < 0)
 			m = -m;
-		if(K < La && a )
 	}
 
 }
